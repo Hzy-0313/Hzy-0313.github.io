@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Hzy-0313.github.io/sitemap.xml
