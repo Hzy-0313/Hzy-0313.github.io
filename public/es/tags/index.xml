@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blowfish</title>
+    <link>http://localhost:1313/es/tags/</link>
+    <description>Recent content in Tags on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="http://localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Avanzado</title>
+      <link>http://localhost:1313/es/tags/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/tags/advanced/</guid>
+      <description>&lt;p&gt;Esta es la etiqueta &amp;ldquo;Avanzado&amp;rdquo;. Al igual que otras páginas de listado en Blowfish, puedes agregar contenido personalizado a términos de taxonomía individuales y se mostrará en la parte superior del listado de términos.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

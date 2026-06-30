@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[{"content":"","date":"2026-06-30","externalUrl":null,"permalink":"/tags/github/","section":"标签","summary":"","title":"GitHub","type":"tags"},{"content":"","date":"2026-06-30","externalUrl":null,"permalink":"/tags/hugo/","section":"标签","summary":"","title":"Hugo","type":"tags"},{"content":"","date":"2026-06-30","externalUrl":null,"permalink":"/posts/","section":"Posts","summary":"","title":"Posts","type":"posts"},{"content":"","date":"2026-06-30","externalUrl":null,"permalink":"/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/","section":"标签","summary":"","title":"博客搭建","type":"tags"},{"content":" 欢迎来到我的个人博客 # 这是我使用 Hugo + Blowfish 主题搭建的博客，托管在 GitHub Pages。\n搭建记录 # 本地安装 Hugo Extended 选用 Blowfish 简洁主题 配置 GitHub Actions 自动部署 后续会持续更新学习笔记、踩坑教程。 ","date":"2026-06-30","externalUrl":null,"permalink":"/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/","section":"Posts","summary":"欢迎来到我的个人博客 # 这是我使用 Hugo + Blowfish 主题搭建的博客，托管在 GitHub Pages。\n","title":"我的第一篇Hugo博客","type":"posts"},{"content":"","date":"2026-06-30","externalUrl":null,"permalink":"/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/","section":"Categories","summary":"","title":"技术笔记","type":"categories"},{"content":"","externalUrl":null,"permalink":"/pt-br/authors/","section":"Authors","summary":"","title":"Authors","type":"authors"},{"content":"Esta é a tag \u0026ldquo;Avançado\u0026rdquo;. Assim como outras páginas de listagem no Blowfish, você pode adicionar conteúdo personalizado a termos de taxonomia individuais e ele será exibido no topo da listagem de termos.\nVocê também pode usar essas páginas de conteúdo para definir metadados do Hugo, como títulos e descrições, que serão usados para SEO e outros propósitos.\n","externalUrl":null,"permalink":"/pt-br/tags/advanced/","section":"Tags","summary":"Esta é a tag “Avançado”. Assim como outras páginas de listagem no Blowfish, você pode adicionar conteúdo personalizado a termos de taxonomia individuais e ele será exibido no topo da listagem de termos.\n","title":"Avançado","type":"tags"},{"content":" Esta é uma demonstração do layout background. Mudar layout \u0026orarr; npx blowfish-tools ","externalUrl":null,"permalink":"/pt-br/","section":"Bem-vindo ao Blowfish! 🎉","summary":" Esta é uma demonstração do layout background. Mudar layout ↻ npx blowfish-tools ","title":"Bem-vindo ao Blowfish! 🎉","type":"page"},{"content":"","externalUrl":null,"permalink":"/pt-br/categories/","section":"Categories","summary":"","title":"Categories","type":"categories"},{"content":"A incrível bio fictícia do segundo autor fictício.\n","externalUrl":null,"permalink":"/pt-br/authors/secondauthor/","section":"Authors","summary":"A incrível bio fictícia do segundo autor fictício.\n","title":"Dummy Second Author","type":"authors"},{"content":"A incrível bio fictícia do Nuno.\n","externalUrl":null,"permalink":"/pt-br/authors/nunocoracao/","section":"Authors","summary":"A incrível bio fictícia do Nuno.\n","title":"Nuno Coração","type":"authors"},{"content":"","externalUrl":null,"permalink":"/pt-br/series/","section":"Series","summary":"","title":"Series","type":"series"},{"content":"","externalUrl":null,"permalink":"/pt-br/tags/","section":"Tags","summary":"","title":"Tags","type":"tags"}]
