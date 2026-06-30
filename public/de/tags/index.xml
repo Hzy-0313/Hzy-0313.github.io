@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blowfish</title>
-    <link>http://localhost:1314/de/tags/</link>
+    <link>http://localhost:1313/de/tags/</link>
     <description>Recent content in Tags on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="http://localhost:1314/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fortgeschritten</title>
-      <link>http://localhost:1314/de/tags/advanced/</link>
+      <link>http://localhost:1313/de/tags/advanced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1314/de/tags/advanced/</guid>
+      <guid>http://localhost:1313/de/tags/advanced/</guid>
       <description>&lt;p&gt;Dies ist das Tag &amp;ldquo;Fortgeschritten&amp;rdquo;. Genau wie bei anderen Auflistungsseiten in Blowfish können Sie benutzerdefinierten Inhalt zu einzelnen Taxonomiebegriffen hinzufügen, der oben in der Begriffsliste angezeigt wird.&lt;/p&gt;&#xA;&lt;p&gt;Sie können diese Inhaltsseiten auch verwenden, um Hugo-Metadaten wie Titel und Beschreibungen zu definieren, die für SEO und andere Zwecke verwendet werden.&lt;/p&gt;</description>
       
     </item>
