@@ -3,31 +3,28 @@ on:
   push:
     branches: [ main ]
 jobs:
-  build-deploy:
-    runs-on: ubuntu-24.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
     steps:
-      # 拉取源码+主题子模块（关键，不然主题丢失）
-      - name: Checkout source
+      - name: 拉取代码与子模块
         uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: recursive
           fetch-depth: 0
-
-      # 安装兼容Blowfish的Hugo版本（最低0.158.0）
-      - name: Setup Hugo
+      - name: 配置 Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.158.0"
+          hugo-version: latest
           extended: true
-
-      # 打包生产环境静态网页
-      - name: Build static site
-        run: hugo --minify -e production
-
-      # 自动发布到gh-pages分支
-      - name: Deploy to gh-pages
+      - name: 清理缓存，构建站点（根目录直接打包，不切exampleSite）
+        run: |
+          hugo mod clean --all
+          hugo --gc --minify --baseURL "https://hzy-0313.github.io/"
+      - name: 部署到 gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
