@@ -1,13 +1,9 @@
-baseURL = "https://Hzy-0313.github.io/"
-languageCode = "zh-cn"
-title = "HHHHHH"
-description = "孙燕姿世界第一"
 # -- Site Configuration --
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://localhost:1313"
+baseURL = "https://Hzy-0313.github.io/"
 defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
