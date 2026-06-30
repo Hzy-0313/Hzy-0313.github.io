@@ -4,7 +4,9 @@
 
 theme = "blowfish"
 baseURL = "https://Hzy-0313.github.io/"
-defaultContentLanguage = "en"
+title = "HHHHHH"
+description = "孙燕姿世界第一"
+defaultContentLanguage = "zh-cn"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
