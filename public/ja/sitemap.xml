@@ -8,11 +8,6 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/authors/secondauthor/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="fr"
       href="http://localhost:1313/fr/authors/secondauthor/"
     />
@@ -44,7 +39,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/authors/secondauthor/"
+      href="http://localhost:1313/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
@@ -59,7 +54,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/"
+      href="http://localhost:1313/en/"
     />
     <xhtml:link
       rel="alternate"
@@ -94,7 +89,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/"
+      href="http://localhost:1313/"
     />
     <xhtml:link
       rel="alternate"
@@ -109,7 +104,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/categories/"
+      href="http://localhost:1313/en/categories/"
     />
     <xhtml:link
       rel="alternate"
@@ -133,18 +128,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/es/categories/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/categories/"
+      href="http://localhost:1313/categories/"
     />
     <xhtml:link
       rel="alternate"
@@ -156,11 +151,6 @@
     <loc>http://localhost:1313/ja/authors/nunocoracao/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/authors/nunocoracao/"
-    />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
@@ -194,7 +184,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/authors/nunocoracao/"
+      href="http://localhost:1313/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
@@ -209,7 +199,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/series/"
+      href="http://localhost:1313/en/series/"
     />
     <xhtml:link
       rel="alternate"
@@ -233,18 +223,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/series/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/pt-br/series/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/series/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/series/"
+      href="http://localhost:1313/series/"
     />
     <xhtml:link
       rel="alternate"
@@ -259,7 +249,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/tags/"
+      href="http://localhost:1313/en/tags/"
     />
     <xhtml:link
       rel="alternate"
@@ -294,7 +284,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/tags/"
+      href="http://localhost:1313/tags/"
     />
     <xhtml:link
       rel="alternate"
@@ -309,7 +299,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/authors/"
+      href="http://localhost:1313/en/authors/"
     />
     <xhtml:link
       rel="alternate"
@@ -333,18 +323,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/es/authors/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/authors/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/authors/"
+      href="http://localhost:1313/authors/"
     />
     <xhtml:link
       rel="alternate"
@@ -356,11 +346,6 @@
     <loc>http://localhost:1313/ja/tags/advanced/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/advanced/"
-    />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
@@ -394,7 +379,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/tags/advanced/"
+      href="http://localhost:1313/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
